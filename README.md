@@ -13,3 +13,6 @@
 ### - Communication and team-work skills, as displayed by current employment and previous projects.
 ### - Good initiative and hard-working.
 ### - Motivated to learn and improve on what I do not know.
+
+## Proof of Coding Skills:
+### - 
