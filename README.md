@@ -15,4 +15,6 @@
 ### - Motivated to learn and improve on what I do not know.
 
 ## Proof of Coding Skills:
-### - 
+### - Coding in C: https://github.com/BHASVIC-SamHarvey19/PsuedocodeChallenges_SamHarvey
+### - Coding in C: https://github.com/BHASVIC-SamHarvey19/Delta-Lodgement-Kashyyyk_Hotel
+### - Coding in Java: https://github.com/BHASVIC-SamHarvey19/JavaCourse
